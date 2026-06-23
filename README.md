@@ -1,12 +1,12 @@
 
 
-## 📌 Brief One Line Summary
+##  Brief One Line Summary
 
 An AI chatbot built using n8n and Google Gemini that helps users place orders, get restaurant information, and check order status.
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This project is a simple AI-powered restaurant chatbot created using **n8n automation** and **Google Gemini AI**.
 
@@ -14,7 +14,7 @@ The chatbot interacts with customers and provides quick responses for common res
 
 ---
 
-# ❓ Problem Statement
+#  Problem Statement
 
 Restaurants receive many repeated questions from customers like:
 
@@ -29,7 +29,7 @@ This chatbot automates these tasks and provides instant responses, improving cus
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 This project does not use a traditional dataset.
 
@@ -42,7 +42,7 @@ Instead, it uses:
 
 ---
 
-# 🛠️ Tools and Technologies
+# Tools and Technologies
 
 - **n8n** – Workflow Automation
 - **Google Gemini** – AI Model
@@ -53,7 +53,7 @@ Instead, it uses:
 
 ---
 
-# ⚙️ Methods
+#  Methods
 
 ### Step 1: User sends a message
 
@@ -79,13 +79,13 @@ Google Gemini generates an intelligent response based on the user's request.
 
 The chatbot replies with options like:
 
-- 🍽️ Place an Order
-- ℹ️ FAQ / Information
-- 📦 Check Order / Stock
+-  Place an Order
+-  FAQ / Information
+-  Check Order / Stock
 
 ---
 
-# 📊 Key Insights
+#  Key Insights
 
 - Automates restaurant customer support
 - Provides instant AI-generated responses
@@ -96,7 +96,7 @@ The chatbot replies with options like:
 
 ---
 
-# 🖥️ Dashboard / Model / Output
+#  Dashboard / Model / Output
 
 ### Workflow
 
@@ -123,7 +123,7 @@ Response to User
 
 ---
 
-# ▶️ How to Run this Project?
+#  How to Run this Project?
 
 ### 1. Install n8n
 
@@ -158,7 +158,7 @@ Click **Execute Workflow** and start chatting with the restaurant bot.
 
 ---
 
-# ✅ Results & Conclusion
+#  Results & Conclusion
 
 The chatbot successfully handles basic restaurant queries without human intervention.
 
@@ -168,7 +168,7 @@ This project is a great beginner-friendly example of AI automation.
 
 ---
 
-# 🚀 Future Work
+#  Future Work
 
 - WhatsApp Integration
 - Telegram Bot
@@ -180,7 +180,7 @@ This project is a great beginner-friendly example of AI automation.
 
 ---
 
-# 👨‍💻 Author & Contact
+#  Author & Contact
 
 **Author:** Vansh Kumar
 
