@@ -119,44 +119,6 @@ Response to User
 ```
 
 
-```
-
----
-
-#  How to Run this Project?
-
-### 1. Install n8n
-
-```
-npm install -g n8n
-```
-
-### 2. Start n8n
-
-Windows PowerShell:
-
-```
-& "$env:APPDATA\npm\n8n.cmd"
-```
-
-### 3. Import the Workflow
-
-- Open n8n
-- Click **Import Workflow**
-- Select the workflow JSON file
-
-### 4. Add Credentials
-
-Configure:
-
-- Google Gemini API Key
-- Google Sheets Credentials (if used)
-
-### 5. Execute the Workflow
-
-Click **Execute Workflow** and start chatting with the restaurant bot.
-
----
 
 #  Results & Conclusion
 
